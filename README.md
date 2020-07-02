@@ -20,7 +20,7 @@ Connect second row of pins on header (2...22) to the second row of pins on femal
 This design was based on information gathered from Amiga System Programmer's Guide by Abacus and from the scematics for the A1020 drive.
 Designed with Fusion 360. Gerber files and Eagle schematics included.
 
-<img src="images/rev1_render.png" alt="render" width="500"/>
+<img src="images/rev1_render.png" alt="render" width="700"/>
 
 ## BOM
  |Component|Pcs |Name|Comment|
