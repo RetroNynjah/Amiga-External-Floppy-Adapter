@@ -1,7 +1,7 @@
 # Retro Ninja Amiga External floppy adapter
 An adapter that allows external connection of Shugart floppy disk drive (in theory) or Gotek drives (tested)
 
-<img src="images/rev1_top.png" alt="drawing" width="300"/><img src="images/rev1_bottom.png" alt="drawing" width="300"/>
+<img src="images/rev1_render.png" alt="render" width="700"/>
 
 This is work in progress and the first revision of the board is just a proof of concept. It has only been tested with a Gotek USB emulator.
 It was designed to plug directly into the external floppy port of the Amiga and connect a Gotek USB emulator with a 34-pin IDC cable and a power cable. The floppy connector on the board is rotated so a floppy cable can go in a straight loop to a Gotek laying on top of the Amiga.
@@ -20,7 +20,7 @@ Connect second row of pins on header (2...22) to the second row of pins on femal
 This design was based on information gathered from Amiga System Programmer's Guide by Abacus and from the scematics for the A1020 drive.
 Designed with Fusion 360. Gerber files and Eagle schematics included.
 
-<img src="images/rev1_render.png" alt="render" width="700"/>
+<img src="images/rev1_top.png" alt="drawing" width="300"/><img src="images/rev1_bottom.png" alt="drawing" width="300"/>
 
 ## BOM
  |Component|Pcs |Name|Comment|
