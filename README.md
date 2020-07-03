@@ -1,4 +1,4 @@
-# Retro Ninja Amiga External floppy adapter
+# Retro Ninja Amiga external floppy adapter
 An adapter that allows external connection of Shugart floppy disk drive (in theory) or Gotek drives (tested)
 
 <img src="images/rev1_render.png" alt="render" width="700"/>
